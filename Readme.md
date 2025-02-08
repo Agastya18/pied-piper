@@ -13,7 +13,9 @@ This project implements **Huffman Encoding and Decoding** in Rust to **compress 
 
 ## Usage
 
-cargo run input.txt compressed.txt
+ ```sh
+   cargo run input.txt compressed.txt
+
 
 
 
