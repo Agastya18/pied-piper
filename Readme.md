@@ -2,6 +2,12 @@
 
 This project implements **Huffman Encoding and Decoding** in Rust to **compress and decompress text files** efficiently.
 
+
+
+https://github.com/user-attachments/assets/3d63a01e-cc5c-4718-88b8-a906e301958a
+
+
+
 ## **🚀 Features**
 - Reads a file and compresses its content using **Huffman encoding**.
 - Generates an optimized binary tree for compression.
